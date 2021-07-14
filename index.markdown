@@ -1,6 +1,6 @@
 ---
 layout: home
-tabla: yml
+tabla: json
 subjects :
   -
     title: Setup
